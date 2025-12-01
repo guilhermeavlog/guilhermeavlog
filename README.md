@@ -57,7 +57,7 @@ I'm a Computer Science student at CU Boulder with a passion for building AI-powe
 
 ## 💬 Let's Connect!
 
-I'm always open to collaborating on interesting projects or discussing new ideas in AI, data science, and software development. Feel free to reach out!
+Me and Robo are always open to collaborating on interesting projects or discussing new ideas in AI, data science, and software development. Feel free to reach out!
 
 <div align="center">
   
@@ -71,6 +71,5 @@ I'm always open to collaborating on interesting projects or discussing new ideas
   
   [![](https://visitcount.itsvg.in/api?id=guilhermeavlog&icon=0&color=0)](https://visitcount.itsvg.in)
   
-  *Thanks for visiting! Have a great day!* ✨
 
 </div>
