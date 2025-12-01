@@ -54,6 +54,7 @@ I'm a Computer Science student at CU Boulder with a passion for building AI-powe
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeavlog&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
+[FondoMoviendoseWEBM.webm](https://github.com/user-attachments/assets/c4e2efdd-b498-46e4-a5d8-1889f4fc8108)
 
 ## 💬 Let's Connect!
 
