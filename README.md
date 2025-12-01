@@ -65,11 +65,6 @@ Me and Robo are always open to collaborating on interesting projects or discussi
 
 </div>
 
----
-
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=guilhermeavlog&icon=0&color=0)](https://visitcount.itsvg.in)
-  
-
 </div>
