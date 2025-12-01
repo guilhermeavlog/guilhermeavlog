@@ -54,7 +54,8 @@ I'm a Computer Science student at CU Boulder with a passion for building AI-powe
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeavlog&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
-[FondoMoviendoseWEBM.webm](https://github.com/user-attachments/assets/c4e2efdd-b498-46e4-a5d8-1889f4fc8108)
+
+<div class="tenor-gif-embed" data-postid="20473503" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/o2-o2bubl-bubl-bubble-cute-gif-20473503">O2 O2bubl Sticker</a>from <a href="https://tenor.com/search/o2-stickers">O2 Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## 💬 Let's Connect!
 
