@@ -61,7 +61,8 @@ Me and Robo are always open to collaborating on interesting projects or discussi
 
 <div align="center">
   
-  ![robot](https://github.com/user-attachments/assets/9585f868-165d-4df0-b31d-80153adb0519)
+  ![robot](https://raw.githubusercontent.com/guilhermeavlog/guilhermeavlog/main/robot.gif)
+  ![robot](https://raw.githubusercontent.com/guilhermeavlog/guilhermeavlog/main/bubl-robot.gif)
 
 </div>
 
